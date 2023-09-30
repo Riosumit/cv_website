@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    padding: 7px 0px;
+    line-height: 2vh;
+}
+h1, h2, h3, h4, h5, h6{
+    padding: 5px 0px;
+    color: #282828 !important;
+}
+.container{
+    width: 800px;
+    max-width: 90vw;
+    margin: 10px auto;
+    padding: 15px;
+    background-color: rgb(130, 240, 240);
+    font-family: sans-serif;
+    display: grid;
+    grid-template-areas: 'header header' 'side main';
+    grid-template-columns: 25% 75%;
+    gap: 10px;
+}
+.profile{
+    width: 100%;
+    max-height: 30vw;
+    border-radius: 50%;
+}
+header{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(198, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 25px;
+    grid-area: header;
+}
+.contact-info{
+    width: 60%;
+}
+.contact-info p{
+    color: rgb(61, 60, 60);
+    line-height: 2vh;
+}
+.side-panel{
+    grid-area: side;
+    background-color: rgba(105, 174, 167, 0.272);
+    padding: 10px;
+    border-radius: 7px;
+}
+.side-panel p{
+    font-family: emoji;
+    line-height: 3vh;
+    color: #2f3030;
+}
+.main-panel{
+    grid-area: main;
+}
+.main-panel p{
+    line-height: 2vw;
+}
+@media screen and (max-width:650px) {
+    p{
+        font-size: 2vw ;
+        line-height: 3vw !important;
+        padding: 0px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 50% !important;
+    }
+}
