@@ -4,12 +4,11 @@ Welcome to my CV website! This website provides an overview of my skills, experi
 
 ## Table of Contents
 
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Frameworks and Tools](#frameworks-and-tools)
-- [Projects](#projects)
-- [Achievements](#achievements)
-- [Contact Information](#contact-information)
+- [Skills](https://riosumit.github.io/cv_website/main)
+- [Frameworks and Tools](https://riosumit.github.io/cv_website/main)
+- [Projects](https://riosumit.github.io/cv_website/main)
+- [Achievements](https://riosumit.github.io/cv_website/main)
+- [Contact Information](https://riosumit.github.io/cv_website/main)
 
 ## About Me
 
@@ -37,7 +36,7 @@ I have worked on several web development projects that demonstrate my expertise 
 
 - **Event Management:** A college event management website that enables clubs to post upcoming events. [GitHub Repo](https://github.com/Riosumit/two_face)
 
-These projects highlight my ability to design and implement web applications from concept to completion. For more details on these and other projects, please explore the [Projects](#projects) section on the website.
+These projects highlight my ability to design and implement web applications from concept to completion. For more details on these and other projects, please explore the [Projects](https://riosumit.github.io/cv_website/main) section on the website.
 
 ## Achievements
 
@@ -45,7 +44,7 @@ I am proud to have achieved the following:
 
 - Winner of the Smart India Hackathon '22. I contributed as a backend developer to the winning team.
 
-For additional details about my achievements, please refer to the [Achievements](#achievements) section on the website.
+For additional details about my achievements, please refer to the [Achievements]([#achievements](https://riosumit.github.io/cv_website/main)) section on the website.
 
 ## Contact Information
 
